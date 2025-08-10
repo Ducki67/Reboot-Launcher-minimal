@@ -6,6 +6,11 @@ Rename any Redirect.dll to **`Cranium.dll`** and put it in the **same** folfer a
 
 The launcher uses the backend port **`3551`** just to know that!
 
+[**Launcher Download**](https://github.com/Ducki67/Reboot-Launcher-minimal/raw/refs/heads/main/Project%20Reboot.exe)
+
+[Current Launcher's Source code](https://github.com/Auties00/Reboot-Launcher)
+
+
 NOTE: This can olny inject 1 dll !!! And sadly  you gotta use UUU (UUClient) injector to get other dlls to work / to use.
 
 ### Redirect Dll's
