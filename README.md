@@ -8,6 +8,9 @@ The launcher uses the backend port **`3551`** just to know that!
 
 [**Launcher Download**](https://github.com/Ducki67/Reboot-Launcher-minimal/raw/refs/heads/main/Project%20Reboot.exe)
 
+[**(Client) Launcher Download**](https://github.com/Ducki67/Reboot-Launcher-minimal/raw/refs/heads/main/Project%20Reboot%20(client).exe)
+
+
 [Current Launcher's Source code](https://github.com/Auties00/Reboot-Launcher)
 
 
