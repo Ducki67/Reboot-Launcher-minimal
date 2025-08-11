@@ -2,14 +2,13 @@
 The minimal command prompt version of Reboot Launcher
 
 ## How to use
-Rename any Redirect.dll to **`Cranium.dll`** and put it in the **same** folfer as the launcher and it sould inject it.
+Rename any Redirect.dll to **`Cranium.dll`** and put it in the **same** folder as the launcher and it sould inject it.
 
 The launcher uses the backend port **`3551`** just to know that!
 
 [**Launcher Download**](https://github.com/Ducki67/Reboot-Launcher-minimal/raw/refs/heads/main/Project%20Reboot.exe)
 
-[**(Client) Launcher Download**](https://github.com/Ducki67/Reboot-Launcher-minimal/raw/refs/heads/main/Project%20Reboot%20(client).exe)
-
+[**(Client) Launcher Download**](https://github.com/Ducki67/Reboot-Launcher-minimal/raw/refs/heads/main/Project%20Reboot%20(client).exe) ( i haven't tested it If its Remotely joining tho )
 
 [Current Launcher's Source code](https://github.com/Auties00/Reboot-Launcher)
 
@@ -22,7 +21,7 @@ FN Redirect / SSL Bypass dll sources
 
 [Milxnor's **Cobalt Dll**](https://github.com/Milxnor/Cobalt)
 
-[Ploosh's **Starfall Dll**](https://github.com/plooshi/Starfall)
+[Ploosh's **Starfall Dll**](https://github.com/plooshi/Starfall) ( i recomend this one this works for almost every season )
 
 [Andr1ww's **Paradise Dll**](https://github.com/andr1ww/Paradise)
 
